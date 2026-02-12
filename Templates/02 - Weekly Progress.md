@@ -6,7 +6,7 @@
 
 | Metric                 | Target | Actual | Status |
 | ---------------------- | ------ | ------ | ------ |
-| Training Hours         | 15-20  | _____  | ☐ ✓  |
+| Training Hours         | 15-20  | _____  | ☐ ✓/✗  |
 | Challenges Solved      | 15-25  | _____  | ☐ ✓/✗  |
 | Live CTF Participated  | 1-2    | _____  | ☐ ✓/✗  |
 | CTF Challenges Solved  | 2-5    | _____  | ☐ ✓/✗  |
