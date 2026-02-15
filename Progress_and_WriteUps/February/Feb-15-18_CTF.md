@@ -9,11 +9,11 @@
 * Attack
 
 ### Tools Used:
-- flask-unsign
 - curl
 - Browser Developer Tools
 
-## Steps:
+
+### Steps:
 1. Reconnaissance (Information Gathering):
     - Visit the website and understand what it does
     - Checkd what technologies it uses (I found: Flask/Python server)
@@ -23,6 +23,10 @@
 2. Identify Vulnerabilities:
     - Found possible exploit through the network. 'api/
 3. 
+
+### Flag
+
+Answer: 
 
 ### Key Takeaways:
 - Why Flask sessions are vulnerable
